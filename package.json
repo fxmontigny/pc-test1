@@ -1,0 +1,13 @@
+{
+	"name": "pc-test1",
+	"version": "1.0.0",
+	"scripts": {
+		"start": "npm run sass",
+		"sass": "sass --watch --trace sass",
+		"build": "sass --update --trace sass"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fxmontigny/pc-test1"
+	}
+}
